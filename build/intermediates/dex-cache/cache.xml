@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/ff42e254e010aa1eae182a5aa2deb7abd8ac0a76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3043f5b56f373fa4e1bd9cee1bf87ea5267529a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/eb0d64f7a78c3dee44254cd90a488c731660b261/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33bee5820710bd2ad71239eeb3d46755da6c6eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/59e7886a7362277135ba48508966ae068caee451/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b2a88f10e34e3d9110b2d5913a2ac960a67913b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/ca96e9111ee4a459e2b8ab9efd875966a26027b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97041dd50187801cd4bab9b99b387c31a6792eca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/f198fd0ba691cf1b159efef05eaa0be801d7821c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2104d2b1ffde894eee3066e57b3fcc26bdf80c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/484ed2cafda81aab56efebfcb0ef7ac0601143d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0809e837fb72887830902531b039459b550e893c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/d71bbde9fbf6c2225a528d16442f84848bad3491/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3673596e6646c25e3f5f720db8cddbc8f4d9e47a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/38a77ff89047eb5a72944d0f56246edf09d102e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d229d894a149227825c9647dc55facb3437a6307/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/8c7bbb1087911796e8354f0649e92841d181ff95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cff9ed37b6a78888f478c5e2ee87af18b202a072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/c78f3a190aa63c1d1310cf6da1d58640d5083b5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b67a44b6b44e776694edbb892b2f1e96befb4bc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/8e8849a78ca90ea114cea1f442b438a8888323da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8cbe9a3e7133bd93316f9efe4ff97d5dd74a246/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/5df76c9bcfa3d132a4c7a3c094fd1ce145425497/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f3e4cc28d2ab0750b4105023f2371ba11351e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/7c40772dd8da2949c8dc77c1e95083a67b6ad683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33e77e03cd491a2800282bc4f65f7ab8553357a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/c49cc847160b6bfc4584babc8bf10f582d3a425f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb5eded1cf8b01a9d4b84b039d2a876faf59fc54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/b8273232d4d81d1500ff0fa65dac75208727b8f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77748708c03b7c43cf2b7f5797b28c99182a767e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/64e8c352f0d5c3bf2fe063143e5ae611f5ea5cef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f36c2d244efc30f62874ce46aa4553d47377215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/500b84bd7463e0ea42d85412e8b5c0188820599e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed5fd885c51c15fe6c11ac80436859423b000e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/281f54e043a137ca83059ab192db73ba67d1bca2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57d46e48c5229ca3d65d6a7b3fa81a3069ddffda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/da4175ed66520f97bd6ff8e3d6b1bc7c60b4d269/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_6bd1d2aa9c1b31b6b6a9f637b9c67ac97e155aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/c454c55621c22422107017643ae6f2623cf34153/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27526ca2bbe0ca96f786f85d2d9c774f00bf3972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/076a4f11a0e9ec89dc362c0ab6e6ad1ad26f2041/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35f2337156ffd0cd535e4cebcbc4baff7347f6ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/7ee19783a8e10979e5002732a224ceb89a17e1af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3800742cec066b526093128a18e1cd2b2da26b0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416e3e99362da0e7bd120ae8fe5f23c9957036f5">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0b0097fcf26a13cbb27a62b051f5ba2ee906258f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/500cd96c5f6cd500d5081ae459daebb9cb0ee9e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43254ebd467156dab85f7ef31e3cf1ada18fc305/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/445fde957e9d38d5fb9c8b3983a68fdf44d0eda0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975ad6c575310dc25da22d4c58e4067d5553011f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/ee62801fbe9eec10f0cd4b0f139aa5956b853b96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6b2b64a07001437494f66b2adc8a014416b5c3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/6a536a410fa33606111887a40b085efeca350004/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b97af5297154768c12887942a50f205673044f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_77ec30d195cb581d57b12af46fcc01eb45cc742c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/b3ee41cd044b4fc099f9cf25610f76eac3c6ec89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cb6398037d4bf5d11c138a17582b431ee036f37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/da4175ed66520f97bd6ff8e3d6b1bc7c60b4d269/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bee477cc419d3112fa17017e5e2b1a43b0d395b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/3e676eabd0a24667ae86730d421a32657d0c0e25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07bd2fd60768cd55e4c606e0ca79e22b0bdd6635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/a43cc724d1bae6e8bbc3fa7be9b2e98eea21ef95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a60c1090de3e7012e00dfaa05c1be62355c23cad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/f4bae09a7d26ae9b3a02d9acf87b39651b461029/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e723b3d97dc6971d8170d11c76c14c40235efb0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/07d4a65d71a1f1164078216c26a7f5b8179ab800/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbfdc101484e8cd7ced43a15a67a20de5b96ea2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/780a89fcac1b2f8fc5917d162b91be62e1ae0528/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4634e1766d4720433b391d103d3c7d0b5bdaa02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/3ce42b63c961c2ac72d2ec61aba608d7c14ce13b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b09b9607b7b3988223c88da666c70c2fd7b7af6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/d9101d8114324561f9ee44a478093981752c19fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8d6b0e0a513dac157c5f74da9b5ef04bb9ebd46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/7db930fb3cbbc27114133780fe3a4e07c168d554/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2086801774cb2a4c0149a80d30b460c21e239b32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/985e4ab8969faccc6d11d735d9e7bdfe39641f0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b029889767fe436f34997f3ba5e2481e1859c686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/64b0117120017621e85f5e9314d073c2cf51595e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e032ae7e3cd09940d470617e8b4e51800cc5efa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/2d8d9e297c2c8cb628c7abb090ba2b128cd19e18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_280d581f647662da937619ff98cc652298a8ec9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/36edf2b144ad24397db842922c942b60a880093b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b254d6c5003f50134df70e6e3f90f642d26843f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/fbb605ca86cb62dcd678ef2141cd0fe4bcf8a52c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80c94d424d0f9c2b40b9fddb77dcd042c58d00b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/3ce272683f28b04d145a7c9089617cd4139765a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af111c956db99ea3eddf760255fb27a1ed88167b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/60278e8fd5369346010e73804351e16357398653/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_415456d78b115277bf4006f387bf2d54b958593a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/28df8ee9ab660057e223fbd3ae80bfd3743c8572/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5811be153d3feda43f7135ee543e91ef814a4db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/5f6660334f070656a85af33b5f1317aee418ada4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dffb970c7a1ea33f465151fbd19c9d6d8da5b1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/14339ea718f40fb4bc4a48f9764da72332ae9a28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe30cdaf1c193b2f47572de29ccbfc6c5c89e373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/49a76c768d0bfbd45a92a44ca01275f3a174e2ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91ea9eb4f91ccf168daa0fc2d88202ed6745c044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/71efd12dc67c6b9d70fbd4585a109b11b5a3444c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0403b005813dc6331e2d19b1af18e9b4d97df37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/25183300779fd4778c667c549dac90567fc30a7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b4960931c2bef2af55056d146c408d533112f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/ee3b61901719ddd242929390bb5bb8af8703a13d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9840a730da0e459797bfe6b190bfbd7786a4859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_136e11cc91e3b892e899a62837a441a1003be54b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_a4bc3bc691ae56fa154a6c053c5302bfec33aaa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/f81e599d0d056356fd05943cd25e125fd24d6e77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dd8f9f7293c74135ccabd157d8c0bd23e204244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/c453d927778947745e5fff6445dc2b408b3d93c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fc39b3c66e124909b70f7034576169b2e5aa3c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/6771356fc00b457b2823b5b742ed7de0970b0117/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eacdf7ae68aa977680e80bf100a976f948312cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/a20eba0e4725b87401deca1bd7bd83eb9e27cde7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25f7ef0f4eee352bb1877f0b33b22ba877d3a69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_fe349055ef9959ac6bcfb35fdbe01e70aa282859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/380577fb0357d3e99419160be0c4228ab6f410ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a65df9df8651a793502062929bc6246186e215af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/a6b2ec3d59ff288a7c4dfc88678c93cd02421b8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_091ae223b10415063e328a169c53818dcdece81a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/54bb8b02b2aad06113aa680fb7fe3404e6544474/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1247bd486ca3c44ffeeb28ab67902fb26d481fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/4cb55868666828b9a22ac2697c6ab4b924f16115/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c30d79844062f8cbbdcfb6be218e81ecc933df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/a0576777ac959c9263f7f5a8389f26c9b9f7d7db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f82d759f9cc6280fefffcc12f981d532f25b2e76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/cb1884e205beccc1f1a74e4d118218e5e3f6a91b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2260869bb082f439c1dee3345d4c8d705b2abf97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/3c4865dfcd2c18a3ffc020ef03f172c20f417b68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_336917d4de17b186bddd5179658d10b71581b3e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiff/.android/build-cache/ff5a40a3aea3a6facfa518f1a02426bfc924b1fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/Users/tiff/AndroidStudioProjects/Dinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b78599cdc7c87cb24155160ac07496cad192634/classes.dex" />
+    </item>
+
+</items>
